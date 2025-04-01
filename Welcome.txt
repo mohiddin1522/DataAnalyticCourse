@@ -1,1 +1,2 @@
-good morning. Day-1 in revature training started with git and git hub
+good morning. Day-1 in revature training started with git and git 
+along with that they will teach us SDLC
